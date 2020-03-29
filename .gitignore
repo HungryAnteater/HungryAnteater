@@ -1,32 +1,20 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
+# Visual Studio Stuff
+.vs/
+*.suo
+*.user
 *.pch
+*.db
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Intermediate and Binary Output
+_int/
+_bin/
 
-# Fortran module files
-*.mod
-*.smod
+# Compile Timing Log Output
+timings.txt
 
-# Compiled Static libraries
-*.lai
-*.la
+# Common Binary Formats
 *.a
 *.lib
-
-# Executables
+*.dll
 *.exe
-*.out
 *.app

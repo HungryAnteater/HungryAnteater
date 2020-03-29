@@ -178,7 +178,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="core.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
